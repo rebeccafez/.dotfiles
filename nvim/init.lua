@@ -1,0 +1,5 @@
+require('rebeccafez.options')
+require('rebeccafez.keymap')
+require('rebeccafez.plugins')
+require('rebeccafez.autocmds')
+require('plugin_conf')
